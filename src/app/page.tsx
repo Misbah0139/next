@@ -7,8 +7,8 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-         "Home is the starting point of love, hope, and dreams."
-        "My home is my happy place, filled with memories and joy”
+         Home is the starting point of love hope and dreams
+        My home is my happy place filled with memories and joy
         </p>
       </blockquote>
       <figcaption className="font-medium">

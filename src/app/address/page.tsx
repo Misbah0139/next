@@ -7,10 +7,10 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-         Near Shahi Masjid,
-Ali Town,
-Rahim Yar Khan,
-Punjab, Pakistan - 64210
+         Near Shahi Masjid
+Ali Town
+Rahim Yar Khan
+Punjab Pakistan  64210
         </p>
       </blockquote>
       <figcaption className="font-medium">
