@@ -7,7 +7,7 @@ const page = () => {
     <div className="pt-6 md:p-8 text-center md:text-left space-y-4">
       <blockquote>
         <p className="text-lg font-medium">
-          “I live in a peaceful village home surrounded by nature. The air is fresh, and I often hear birds singing and trees rustling. Life here is calm, far from the busy city. My home is cozy and simple, perfect for enjoying the quiet countryside. The village moves at a slower pace, giving me time to appreciate the beauty of the fields and the peaceful atmosphere that makes it special.”
+          I live in a peaceful village home surrounded by nature. The air is fresh and I often hear birds singing and trees rustling. Life here is calm far from the busy city. My home is cozy and simple, perfect for enjoying the quiet countryside. The village moves at a slower pace, giving me time to appreciate the beauty of the fields and the peaceful atmosphere that makes it special.
         </p>
       </blockquote>
       <figcaption className="font-medium">
